@@ -36,3 +36,12 @@ Depending on the selected input unit, the program provides conversions into the 
 ## Sample Screenshot
 
 <img width="1512" height="982" alt="Screenshot 2025-07-11 at 8 07 27 PM" src="https://github.com/user-attachments/assets/af809a04-6162-4dd5-8eb7-67c4359e73c9" />
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this code for personal or commercial purposes, as long as the original author is credited.
+
+
